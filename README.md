@@ -1,2 +1,2 @@
 # try_something
-some kind of test.
+some type of test.
